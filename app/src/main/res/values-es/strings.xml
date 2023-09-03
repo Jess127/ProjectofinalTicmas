@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Comparador de Textos</string>
+    <string name="Button">Comparar</string>
+    <string name="Text_Box">Escriba aquí…</string>
+    <string name="Text_view">Compara tus textos aquí</string>
+    <string name="End_result1">Los textos son iguales.</string>
+    <string name="End_result2">Los textos no son iguales.</string>
+    <string name="Hint_TextView">Tu Resultado va aparecer aquí.</string>
+</resources>
