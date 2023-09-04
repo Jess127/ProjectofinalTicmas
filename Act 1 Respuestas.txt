@@ -1,0 +1,26 @@
+ > Indicar que configuración tiene cada emulador creado (versión de Android, tamaño de pantalla, memoria RAM).
+
+Tablet:
+Android 12.0
+8'86 (2048 x 1536 xhdpi)
+Landscape
+2GB de RAM
+6GB Internal Storage
+
+Teléfono:
+Android 12.0
+5'8 (1080 x 2340 440dpi)
+Portrait
+1GB de RAM
+2GB Internal Storage
+
+
+   >¿Qué diferencia observás en el funcionamiento de la aplicación en una tablet con orientación Landscape y un teléfono con orientación Portrait?
+La diferencia más notoria es que aumenta la cantidad de elementos visibles en la UI de la tablet a comparación del teléfono, ya que la resolución y el tamaño de pantalla de un Teléfono no es el mismo que el de una Tablet.
+
+
+>¿En qué archivo está el nombre de tu aplicación? Probá cambiarlo y correr la aplicación nuevamente.
+¿Y el ícono?
+
+El Icono se encuentra en la carpeta de recursos, dentro de la carpeta mipmap.
+La aplicación en si se encuentra Ubicada dentro de nuestro projecto en el directorio "app". Nuestro proyecto como tal se encuentra dentro de C:\Users\*inserte_nombre_de_usuario*\AndroidStudioProjects
