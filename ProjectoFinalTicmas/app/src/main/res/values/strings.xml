@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Text Comparator</string>
+    <string name="Button">Compare</string>
+    <string name="Text_Box">Text Here…</string>
+    <string name="Text_view">Compare your texts</string>
+    <string name="End_result1">The texts are the same.</string>
+    <string name="End_result2">The texts are not the same.</string>
+    <string name="Hint_TextView">Your result will appear here.</string>
+</resources>
